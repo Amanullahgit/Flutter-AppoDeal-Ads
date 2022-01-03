@@ -1,16 +1,20 @@
-# flutter_appodeal_ads
+# Flutter Appodeal Ads
 
-A new Flutter project.
+This is the source code for Flutter Appodeal Ads.<br>
 
-## Getting Started
+## App Features
+- Banner Ads.<br>
+- Interstitial Ads.<br>
+- Rewarded Video Ads.<br><br>
 
-This project is a starting point for a Flutter application.
+For Step By Step Guide Follow Video Tutorial:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter Appodeal Ads | How To Use AppoDeal Ads in Flutter](https://youtu.be/ndjbSGsa1Rc)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Links used in project:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Appodeal Package](https://bit.ly/3pQYFyR)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
